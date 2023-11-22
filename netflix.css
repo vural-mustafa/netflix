@@ -1,0 +1,61 @@
+
+.netflix{
+    margin-top: -700px;
+    margin-left: 350px;
+    color: red;
+    font-size: 40px;
+}
+.combobox{
+    margin-top: -350px;
+    margin-left: 1300px;
+    width: 130px;
+    height: 40px;
+    font-size: 15px;
+    border: 3px solid white;
+    background-color: black;
+    color: white;
+    border-radius: 7%
+}
+.button{
+    margin-top: -250px;
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: red;
+    border-radius: 9%;
+    border: 3px solid black;
+}
+.form2{
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin-top: 150px;
+    font-family: sans-serif;
+}
+.yazi{
+    font-size: 55px; 
+}
+.yazi1{
+    font-size: 23px;
+}
+.yazi2{
+    font-size: 20px;
+}
+.email{
+    padding: 18px;
+    width: 300px;
+    font-family: sans-serif;
+    background-color: rgb(125,125 , 125);
+    opacity: 0.8;
+    color: white;
+}
+.button1{
+    padding: 15px;
+    width: 180px;
+    font-family: sans-serif;
+    color: white;
+    background-color: red;
+    font-size: 20px;
+    border-radius: 5%;
+    
+}
